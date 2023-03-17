@@ -18,6 +18,12 @@ public class Artista {
         return nombreArtista;
     }
     
+    //Ruben Sicre Flores
+    public void setNombreArtista(String nombreArtista) {
+        this.nombreArtista = nombreArtista;
+    }
+    
+    
 }
 
 
